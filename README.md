@@ -11,10 +11,12 @@ Solutions to LeetCode problems in Python, JavaScript, and TypeScript, organized 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +29,8 @@ Solutions to LeetCode problems in Python, JavaScript, and TypeScript, organized 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
