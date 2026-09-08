@@ -12,11 +12,13 @@ Solutions to LeetCode problems in Python, JavaScript, and TypeScript, organized 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +35,12 @@ Solutions to LeetCode problems in Python, JavaScript, and TypeScript, organized 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
