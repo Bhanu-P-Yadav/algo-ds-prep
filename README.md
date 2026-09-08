@@ -13,6 +13,7 @@ Solutions to LeetCode problems in Python, JavaScript, and TypeScript, organized 
 | [0002-add-two-numbers](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -39,8 +40,10 @@ Solutions to LeetCode problems in Python, JavaScript, and TypeScript, organized 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
