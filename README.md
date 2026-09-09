@@ -24,6 +24,7 @@ Solutions to LeetCode problems in Java, organized by topic, difficulty, and prob
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -51,4 +52,8 @@ Solutions to LeetCode problems in Java, organized by topic, difficulty, and prob
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/1518-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Bhanu-P-Yadav/algo-ds-prep/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
